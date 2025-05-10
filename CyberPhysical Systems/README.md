@@ -1,4 +1,4 @@
-# Ethics For Nerds [15.04-15.07/2024]
+# Cyberphysical Systems [15.04-15.07/2024]
 A course held by Prof.Amr Alanwar where students are required to create a harware+software project for Summer Semester 2024.
 
 Me and my teammates have recreated the Prof. Amr Alanwar's research paper on reinforcement learning safety layer in a real life environment with limited hardware capabilities.
